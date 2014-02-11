@@ -2,3 +2,6 @@ analoginoutserial/
 blink_5s/
 blink_n_turn/
 notes/
+
+# ignores any archives of libraries
+libraries/*.zip
